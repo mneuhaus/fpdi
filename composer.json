@@ -18,9 +18,8 @@
         "tecnick.com/tcpdf": "FPDI supports TCPDF as a replacement for FPDF"
     },
     "autoload": {
-        "psr-4": {
-            "fpdi\\": "src/",
-            "fpdidev\\": "dev/"
+        "psr-0": {
+            "fpdi": "src/"
         }
     }
 }
